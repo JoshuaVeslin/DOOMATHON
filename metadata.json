@@ -1,0 +1,6 @@
+{
+  "name": "BIS Compliance Copilot",
+  "description": "AI-powered BIS standards and certification intelligence assistant for India. Trace products to standards, mandatory QCOs, testing protocols, accredited laboratories, and actionable compliance checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
